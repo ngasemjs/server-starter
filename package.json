@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ngasemjs/server-starter#readme",
   "dependencies": {
-    "@ngasemjs/server-igniter": "0.0.3"
+    "@ngasemjs/server-igniter": "0.0.34"
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
